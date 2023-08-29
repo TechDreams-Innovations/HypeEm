@@ -1,3 +1,3 @@
-# HyperEm
+# HypeEm
 
-A lightning-fast, multi-purpose terminal constructed originally in Python (later in JavaScript). Constructed for general use by anyone and everyone, its strength lies in its utility and power.
+A lightning-fast, multi-purpose terminal coded purely in Python. Constructed for general use by anyone and everyone, its strength lies in its power and easy-to-use nature.
