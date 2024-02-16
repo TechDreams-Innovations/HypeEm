@@ -125,7 +125,7 @@ void hangmanGame() {
 }
 
 int main() {
-    printf("===| HypeEm 1.0 Build Diamond|===\n");
+    printf("===| HypeEm 1.0 Build Diamond (Main Shell)|===\n");
 
     while (true) {
         std::string command;
@@ -147,7 +147,7 @@ int main() {
             printf("wordcount: Counts words in entered text\n");
             printf("proofread: Proofreads entered text\n");
             printf("hangman: Play a text-based Hangman game\n");
-            printf("CPU and RAM programs are available via Python\n");
+            printf("File Explorer, CPU and RAM programs are available as Python apps\n");
         } else if (command == "cal") {
             calculator();
         } else if (command == "cls") {
